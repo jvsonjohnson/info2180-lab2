@@ -1,3 +1,7 @@
+html {
+  text-align: center;
+}
+
 h1 {
   font-size: 24px;
   color: #41b883;
@@ -5,4 +9,9 @@ h1 {
 
 p {
   font-size: 18px;
+}
+
+img {
+  height: 400px;
+  width: 600px;
 }
